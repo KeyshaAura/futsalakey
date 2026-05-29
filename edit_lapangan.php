@@ -106,8 +106,7 @@ if (isset($_POST['update'])) {
 
         <div class="btn-group">
             <a href="admin.php?page=lapangan" class="btn-cancel">Batal</a>
-            <button type="submit" name="update" class="btn-submit">Simpan Perubahan</button>
+            <button type="submit" name="update" class="btn-submit">Simpan Perubahan Testing TESTING</button>
         </div>
-    </form>
-    <!-- testing euyyy -->
+    </form> 
 </div>
